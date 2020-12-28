@@ -1,0 +1,13 @@
+C:\Users\hrist\Desktop\SEDC 2019-2020\04_C# Basic\Vezbi i proekti\BasicCSharpTasksAndExercises\Class4_stringsMethods\bin\Debug\netcoreapp3.1\Class4_stringsMethods.exe
+C:\Users\hrist\Desktop\SEDC 2019-2020\04_C# Basic\Vezbi i proekti\BasicCSharpTasksAndExercises\Class4_stringsMethods\bin\Debug\netcoreapp3.1\Class4_stringsMethods.deps.json
+C:\Users\hrist\Desktop\SEDC 2019-2020\04_C# Basic\Vezbi i proekti\BasicCSharpTasksAndExercises\Class4_stringsMethods\bin\Debug\netcoreapp3.1\Class4_stringsMethods.runtimeconfig.json
+C:\Users\hrist\Desktop\SEDC 2019-2020\04_C# Basic\Vezbi i proekti\BasicCSharpTasksAndExercises\Class4_stringsMethods\bin\Debug\netcoreapp3.1\Class4_stringsMethods.runtimeconfig.dev.json
+C:\Users\hrist\Desktop\SEDC 2019-2020\04_C# Basic\Vezbi i proekti\BasicCSharpTasksAndExercises\Class4_stringsMethods\bin\Debug\netcoreapp3.1\Class4_stringsMethods.dll
+C:\Users\hrist\Desktop\SEDC 2019-2020\04_C# Basic\Vezbi i proekti\BasicCSharpTasksAndExercises\Class4_stringsMethods\bin\Debug\netcoreapp3.1\Class4_stringsMethods.pdb
+C:\Users\hrist\Desktop\SEDC 2019-2020\04_C# Basic\Vezbi i proekti\BasicCSharpTasksAndExercises\Class4_stringsMethods\obj\Debug\netcoreapp3.1\Class4_stringsMethods.csproj.CoreCompileInputs.cache
+C:\Users\hrist\Desktop\SEDC 2019-2020\04_C# Basic\Vezbi i proekti\BasicCSharpTasksAndExercises\Class4_stringsMethods\obj\Debug\netcoreapp3.1\Class4_stringsMethods.AssemblyInfoInputs.cache
+C:\Users\hrist\Desktop\SEDC 2019-2020\04_C# Basic\Vezbi i proekti\BasicCSharpTasksAndExercises\Class4_stringsMethods\obj\Debug\netcoreapp3.1\Class4_stringsMethods.AssemblyInfo.cs
+C:\Users\hrist\Desktop\SEDC 2019-2020\04_C# Basic\Vezbi i proekti\BasicCSharpTasksAndExercises\Class4_stringsMethods\obj\Debug\netcoreapp3.1\Class4_stringsMethods.dll
+C:\Users\hrist\Desktop\SEDC 2019-2020\04_C# Basic\Vezbi i proekti\BasicCSharpTasksAndExercises\Class4_stringsMethods\obj\Debug\netcoreapp3.1\Class4_stringsMethods.pdb
+C:\Users\hrist\Desktop\SEDC 2019-2020\04_C# Basic\Vezbi i proekti\BasicCSharpTasksAndExercises\Class4_stringsMethods\obj\Debug\netcoreapp3.1\Class4_stringsMethods.genruntimeconfig.cache
+C:\Users\hrist\Desktop\SEDC 2019-2020\04_C# Basic\Vezbi i proekti\BasicCSharpTasksAndExercises\Class4_stringsMethods\obj\Debug\netcoreapp3.1\Class4_stringsMethods.csprojAssemblyReference.cache

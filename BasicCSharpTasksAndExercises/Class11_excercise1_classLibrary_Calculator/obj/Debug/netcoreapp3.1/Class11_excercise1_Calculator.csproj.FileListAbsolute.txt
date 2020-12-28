@@ -1,0 +1,8 @@
+C:\Users\hrist\Desktop\SEDC 2019-2020\04_C# Basic\Vezbi i proekti\BasicCSharpTasksAndExercises\Class11_excercise1_Calculator\bin\Debug\netcoreapp3.1\Class11_excercise1_Calculator.deps.json
+C:\Users\hrist\Desktop\SEDC 2019-2020\04_C# Basic\Vezbi i proekti\BasicCSharpTasksAndExercises\Class11_excercise1_Calculator\bin\Debug\netcoreapp3.1\Class11_excercise1_Calculator.dll
+C:\Users\hrist\Desktop\SEDC 2019-2020\04_C# Basic\Vezbi i proekti\BasicCSharpTasksAndExercises\Class11_excercise1_Calculator\bin\Debug\netcoreapp3.1\Class11_excercise1_Calculator.pdb
+C:\Users\hrist\Desktop\SEDC 2019-2020\04_C# Basic\Vezbi i proekti\BasicCSharpTasksAndExercises\Class11_excercise1_Calculator\obj\Debug\netcoreapp3.1\Class11_excercise1_Calculator.csproj.CoreCompileInputs.cache
+C:\Users\hrist\Desktop\SEDC 2019-2020\04_C# Basic\Vezbi i proekti\BasicCSharpTasksAndExercises\Class11_excercise1_Calculator\obj\Debug\netcoreapp3.1\Class11_excercise1_Calculator.AssemblyInfoInputs.cache
+C:\Users\hrist\Desktop\SEDC 2019-2020\04_C# Basic\Vezbi i proekti\BasicCSharpTasksAndExercises\Class11_excercise1_Calculator\obj\Debug\netcoreapp3.1\Class11_excercise1_Calculator.AssemblyInfo.cs
+C:\Users\hrist\Desktop\SEDC 2019-2020\04_C# Basic\Vezbi i proekti\BasicCSharpTasksAndExercises\Class11_excercise1_Calculator\obj\Debug\netcoreapp3.1\Class11_excercise1_Calculator.dll
+C:\Users\hrist\Desktop\SEDC 2019-2020\04_C# Basic\Vezbi i proekti\BasicCSharpTasksAndExercises\Class11_excercise1_Calculator\obj\Debug\netcoreapp3.1\Class11_excercise1_Calculator.pdb

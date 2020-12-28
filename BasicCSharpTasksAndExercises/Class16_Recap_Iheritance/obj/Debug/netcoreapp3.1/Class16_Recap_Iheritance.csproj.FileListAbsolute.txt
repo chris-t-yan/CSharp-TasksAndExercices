@@ -1,0 +1,12 @@
+C:\Users\hrist\Desktop\SEDC 2019-2020\04_C# Basic\Vezbi i proekti\BasicCSharpTasksAndExercises\Class16_Recap_Iheritance\bin\Debug\netcoreapp3.1\Class16_Recap_Iheritance.exe
+C:\Users\hrist\Desktop\SEDC 2019-2020\04_C# Basic\Vezbi i proekti\BasicCSharpTasksAndExercises\Class16_Recap_Iheritance\bin\Debug\netcoreapp3.1\Class16_Recap_Iheritance.deps.json
+C:\Users\hrist\Desktop\SEDC 2019-2020\04_C# Basic\Vezbi i proekti\BasicCSharpTasksAndExercises\Class16_Recap_Iheritance\bin\Debug\netcoreapp3.1\Class16_Recap_Iheritance.runtimeconfig.json
+C:\Users\hrist\Desktop\SEDC 2019-2020\04_C# Basic\Vezbi i proekti\BasicCSharpTasksAndExercises\Class16_Recap_Iheritance\bin\Debug\netcoreapp3.1\Class16_Recap_Iheritance.runtimeconfig.dev.json
+C:\Users\hrist\Desktop\SEDC 2019-2020\04_C# Basic\Vezbi i proekti\BasicCSharpTasksAndExercises\Class16_Recap_Iheritance\bin\Debug\netcoreapp3.1\Class16_Recap_Iheritance.dll
+C:\Users\hrist\Desktop\SEDC 2019-2020\04_C# Basic\Vezbi i proekti\BasicCSharpTasksAndExercises\Class16_Recap_Iheritance\bin\Debug\netcoreapp3.1\Class16_Recap_Iheritance.pdb
+C:\Users\hrist\Desktop\SEDC 2019-2020\04_C# Basic\Vezbi i proekti\BasicCSharpTasksAndExercises\Class16_Recap_Iheritance\obj\Debug\netcoreapp3.1\Class16_Recap_Iheritance.csproj.CoreCompileInputs.cache
+C:\Users\hrist\Desktop\SEDC 2019-2020\04_C# Basic\Vezbi i proekti\BasicCSharpTasksAndExercises\Class16_Recap_Iheritance\obj\Debug\netcoreapp3.1\Class16_Recap_Iheritance.AssemblyInfoInputs.cache
+C:\Users\hrist\Desktop\SEDC 2019-2020\04_C# Basic\Vezbi i proekti\BasicCSharpTasksAndExercises\Class16_Recap_Iheritance\obj\Debug\netcoreapp3.1\Class16_Recap_Iheritance.AssemblyInfo.cs
+C:\Users\hrist\Desktop\SEDC 2019-2020\04_C# Basic\Vezbi i proekti\BasicCSharpTasksAndExercises\Class16_Recap_Iheritance\obj\Debug\netcoreapp3.1\Class16_Recap_Iheritance.dll
+C:\Users\hrist\Desktop\SEDC 2019-2020\04_C# Basic\Vezbi i proekti\BasicCSharpTasksAndExercises\Class16_Recap_Iheritance\obj\Debug\netcoreapp3.1\Class16_Recap_Iheritance.pdb
+C:\Users\hrist\Desktop\SEDC 2019-2020\04_C# Basic\Vezbi i proekti\BasicCSharpTasksAndExercises\Class16_Recap_Iheritance\obj\Debug\netcoreapp3.1\Class16_Recap_Iheritance.genruntimeconfig.cache

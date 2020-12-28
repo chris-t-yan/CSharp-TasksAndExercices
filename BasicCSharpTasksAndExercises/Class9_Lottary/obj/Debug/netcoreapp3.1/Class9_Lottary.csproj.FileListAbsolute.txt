@@ -1,0 +1,16 @@
+C:\Users\hrist\Desktop\SEDC 2019-2020\04_C# Basic\Vezbi i proekti\BasicCSharpTasksAndExercises\Class9_Lottary\bin\Debug\netcoreapp3.1\Class9_Lottary.exe
+C:\Users\hrist\Desktop\SEDC 2019-2020\04_C# Basic\Vezbi i proekti\BasicCSharpTasksAndExercises\Class9_Lottary\bin\Debug\netcoreapp3.1\Class9_Lottary.deps.json
+C:\Users\hrist\Desktop\SEDC 2019-2020\04_C# Basic\Vezbi i proekti\BasicCSharpTasksAndExercises\Class9_Lottary\bin\Debug\netcoreapp3.1\Class9_Lottary.runtimeconfig.json
+C:\Users\hrist\Desktop\SEDC 2019-2020\04_C# Basic\Vezbi i proekti\BasicCSharpTasksAndExercises\Class9_Lottary\bin\Debug\netcoreapp3.1\Class9_Lottary.runtimeconfig.dev.json
+C:\Users\hrist\Desktop\SEDC 2019-2020\04_C# Basic\Vezbi i proekti\BasicCSharpTasksAndExercises\Class9_Lottary\bin\Debug\netcoreapp3.1\Class9_Lottary.dll
+C:\Users\hrist\Desktop\SEDC 2019-2020\04_C# Basic\Vezbi i proekti\BasicCSharpTasksAndExercises\Class9_Lottary\bin\Debug\netcoreapp3.1\Class9_Lottary.pdb
+C:\Users\hrist\Desktop\SEDC 2019-2020\04_C# Basic\Vezbi i proekti\BasicCSharpTasksAndExercises\Class9_Lottary\bin\Debug\netcoreapp3.1\LottoServices.dll
+C:\Users\hrist\Desktop\SEDC 2019-2020\04_C# Basic\Vezbi i proekti\BasicCSharpTasksAndExercises\Class9_Lottary\bin\Debug\netcoreapp3.1\LottoServices.pdb
+C:\Users\hrist\Desktop\SEDC 2019-2020\04_C# Basic\Vezbi i proekti\BasicCSharpTasksAndExercises\Class9_Lottary\obj\Debug\netcoreapp3.1\Class9_Lottary.csprojAssemblyReference.cache
+C:\Users\hrist\Desktop\SEDC 2019-2020\04_C# Basic\Vezbi i proekti\BasicCSharpTasksAndExercises\Class9_Lottary\obj\Debug\netcoreapp3.1\Class9_Lottary.csproj.CoreCompileInputs.cache
+C:\Users\hrist\Desktop\SEDC 2019-2020\04_C# Basic\Vezbi i proekti\BasicCSharpTasksAndExercises\Class9_Lottary\obj\Debug\netcoreapp3.1\Class9_Lottary.AssemblyInfoInputs.cache
+C:\Users\hrist\Desktop\SEDC 2019-2020\04_C# Basic\Vezbi i proekti\BasicCSharpTasksAndExercises\Class9_Lottary\obj\Debug\netcoreapp3.1\Class9_Lottary.AssemblyInfo.cs
+C:\Users\hrist\Desktop\SEDC 2019-2020\04_C# Basic\Vezbi i proekti\BasicCSharpTasksAndExercises\Class9_Lottary\obj\Debug\netcoreapp3.1\Class9_Lottary.csproj.CopyComplete
+C:\Users\hrist\Desktop\SEDC 2019-2020\04_C# Basic\Vezbi i proekti\BasicCSharpTasksAndExercises\Class9_Lottary\obj\Debug\netcoreapp3.1\Class9_Lottary.dll
+C:\Users\hrist\Desktop\SEDC 2019-2020\04_C# Basic\Vezbi i proekti\BasicCSharpTasksAndExercises\Class9_Lottary\obj\Debug\netcoreapp3.1\Class9_Lottary.pdb
+C:\Users\hrist\Desktop\SEDC 2019-2020\04_C# Basic\Vezbi i proekti\BasicCSharpTasksAndExercises\Class9_Lottary\obj\Debug\netcoreapp3.1\Class9_Lottary.genruntimeconfig.cache

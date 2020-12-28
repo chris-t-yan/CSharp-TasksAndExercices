@@ -1,0 +1,13 @@
+C:\Users\hrist\Desktop\SEDC 2019-2020\04_C# Basic\Vezbi i proekti\BasicCSharpTasksAndExercises\Class4_classCode\bin\Debug\netcoreapp3.1\Class4_classCode.exe
+C:\Users\hrist\Desktop\SEDC 2019-2020\04_C# Basic\Vezbi i proekti\BasicCSharpTasksAndExercises\Class4_classCode\bin\Debug\netcoreapp3.1\Class4_classCode.deps.json
+C:\Users\hrist\Desktop\SEDC 2019-2020\04_C# Basic\Vezbi i proekti\BasicCSharpTasksAndExercises\Class4_classCode\bin\Debug\netcoreapp3.1\Class4_classCode.runtimeconfig.json
+C:\Users\hrist\Desktop\SEDC 2019-2020\04_C# Basic\Vezbi i proekti\BasicCSharpTasksAndExercises\Class4_classCode\bin\Debug\netcoreapp3.1\Class4_classCode.runtimeconfig.dev.json
+C:\Users\hrist\Desktop\SEDC 2019-2020\04_C# Basic\Vezbi i proekti\BasicCSharpTasksAndExercises\Class4_classCode\bin\Debug\netcoreapp3.1\Class4_classCode.dll
+C:\Users\hrist\Desktop\SEDC 2019-2020\04_C# Basic\Vezbi i proekti\BasicCSharpTasksAndExercises\Class4_classCode\bin\Debug\netcoreapp3.1\Class4_classCode.pdb
+C:\Users\hrist\Desktop\SEDC 2019-2020\04_C# Basic\Vezbi i proekti\BasicCSharpTasksAndExercises\Class4_classCode\obj\Debug\netcoreapp3.1\Class4_classCode.csprojAssemblyReference.cache
+C:\Users\hrist\Desktop\SEDC 2019-2020\04_C# Basic\Vezbi i proekti\BasicCSharpTasksAndExercises\Class4_classCode\obj\Debug\netcoreapp3.1\Class4_classCode.csproj.CoreCompileInputs.cache
+C:\Users\hrist\Desktop\SEDC 2019-2020\04_C# Basic\Vezbi i proekti\BasicCSharpTasksAndExercises\Class4_classCode\obj\Debug\netcoreapp3.1\Class4_classCode.AssemblyInfoInputs.cache
+C:\Users\hrist\Desktop\SEDC 2019-2020\04_C# Basic\Vezbi i proekti\BasicCSharpTasksAndExercises\Class4_classCode\obj\Debug\netcoreapp3.1\Class4_classCode.AssemblyInfo.cs
+C:\Users\hrist\Desktop\SEDC 2019-2020\04_C# Basic\Vezbi i proekti\BasicCSharpTasksAndExercises\Class4_classCode\obj\Debug\netcoreapp3.1\Class4_classCode.dll
+C:\Users\hrist\Desktop\SEDC 2019-2020\04_C# Basic\Vezbi i proekti\BasicCSharpTasksAndExercises\Class4_classCode\obj\Debug\netcoreapp3.1\Class4_classCode.pdb
+C:\Users\hrist\Desktop\SEDC 2019-2020\04_C# Basic\Vezbi i proekti\BasicCSharpTasksAndExercises\Class4_classCode\obj\Debug\netcoreapp3.1\Class4_classCode.genruntimeconfig.cache

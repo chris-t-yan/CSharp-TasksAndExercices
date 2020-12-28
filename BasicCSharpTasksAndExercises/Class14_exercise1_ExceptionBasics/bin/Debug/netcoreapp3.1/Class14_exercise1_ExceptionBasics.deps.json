@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Class14_exercise1_ExceptionBasics/1.0.0": {
+        "runtime": {
+          "Class14_exercise1_ExceptionBasics.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Class14_exercise1_ExceptionBasics/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,12 @@
+C:\Users\hrist\Desktop\SEDC 2019-2020\04_C# Basic\Vezbi i proekti\BasicCSharpTasksAndExercises\Class10_GenericCollections\bin\Debug\netcoreapp3.1\Class10_GenericCollections.exe
+C:\Users\hrist\Desktop\SEDC 2019-2020\04_C# Basic\Vezbi i proekti\BasicCSharpTasksAndExercises\Class10_GenericCollections\bin\Debug\netcoreapp3.1\Class10_GenericCollections.deps.json
+C:\Users\hrist\Desktop\SEDC 2019-2020\04_C# Basic\Vezbi i proekti\BasicCSharpTasksAndExercises\Class10_GenericCollections\bin\Debug\netcoreapp3.1\Class10_GenericCollections.runtimeconfig.json
+C:\Users\hrist\Desktop\SEDC 2019-2020\04_C# Basic\Vezbi i proekti\BasicCSharpTasksAndExercises\Class10_GenericCollections\bin\Debug\netcoreapp3.1\Class10_GenericCollections.runtimeconfig.dev.json
+C:\Users\hrist\Desktop\SEDC 2019-2020\04_C# Basic\Vezbi i proekti\BasicCSharpTasksAndExercises\Class10_GenericCollections\bin\Debug\netcoreapp3.1\Class10_GenericCollections.dll
+C:\Users\hrist\Desktop\SEDC 2019-2020\04_C# Basic\Vezbi i proekti\BasicCSharpTasksAndExercises\Class10_GenericCollections\bin\Debug\netcoreapp3.1\Class10_GenericCollections.pdb
+C:\Users\hrist\Desktop\SEDC 2019-2020\04_C# Basic\Vezbi i proekti\BasicCSharpTasksAndExercises\Class10_GenericCollections\obj\Debug\netcoreapp3.1\Class10_GenericCollections.csproj.CoreCompileInputs.cache
+C:\Users\hrist\Desktop\SEDC 2019-2020\04_C# Basic\Vezbi i proekti\BasicCSharpTasksAndExercises\Class10_GenericCollections\obj\Debug\netcoreapp3.1\Class10_GenericCollections.AssemblyInfoInputs.cache
+C:\Users\hrist\Desktop\SEDC 2019-2020\04_C# Basic\Vezbi i proekti\BasicCSharpTasksAndExercises\Class10_GenericCollections\obj\Debug\netcoreapp3.1\Class10_GenericCollections.AssemblyInfo.cs
+C:\Users\hrist\Desktop\SEDC 2019-2020\04_C# Basic\Vezbi i proekti\BasicCSharpTasksAndExercises\Class10_GenericCollections\obj\Debug\netcoreapp3.1\Class10_GenericCollections.dll
+C:\Users\hrist\Desktop\SEDC 2019-2020\04_C# Basic\Vezbi i proekti\BasicCSharpTasksAndExercises\Class10_GenericCollections\obj\Debug\netcoreapp3.1\Class10_GenericCollections.pdb
+C:\Users\hrist\Desktop\SEDC 2019-2020\04_C# Basic\Vezbi i proekti\BasicCSharpTasksAndExercises\Class10_GenericCollections\obj\Debug\netcoreapp3.1\Class10_GenericCollections.genruntimeconfig.cache

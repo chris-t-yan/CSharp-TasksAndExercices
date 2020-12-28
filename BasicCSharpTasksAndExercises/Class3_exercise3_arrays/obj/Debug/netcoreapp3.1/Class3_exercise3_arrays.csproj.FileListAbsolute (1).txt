@@ -1,0 +1,11 @@
+C:\Users\hrist\Desktop\SEDC 2019-2020\04_C# Basic\Vezbi i proekti\BasicCSharpTasksAndExercises\Class3_exercise3_arrays\bin\Debug\netcoreapp3.1\Class3_exercise3_arrays.exe
+C:\Users\hrist\Desktop\SEDC 2019-2020\04_C# Basic\Vezbi i proekti\BasicCSharpTasksAndExercises\Class3_exercise3_arrays\bin\Debug\netcoreapp3.1\Class3_exercise3_arrays.deps.json
+C:\Users\hrist\Desktop\SEDC 2019-2020\04_C# Basic\Vezbi i proekti\BasicCSharpTasksAndExercises\Class3_exercise3_arrays\bin\Debug\netcoreapp3.1\Class3_exercise3_arrays.runtimeconfig.json
+C:\Users\hrist\Desktop\SEDC 2019-2020\04_C# Basic\Vezbi i proekti\BasicCSharpTasksAndExercises\Class3_exercise3_arrays\bin\Debug\netcoreapp3.1\Class3_exercise3_arrays.runtimeconfig.dev.json
+C:\Users\hrist\Desktop\SEDC 2019-2020\04_C# Basic\Vezbi i proekti\BasicCSharpTasksAndExercises\Class3_exercise3_arrays\bin\Debug\netcoreapp3.1\Class3_exercise3_arrays.dll
+C:\Users\hrist\Desktop\SEDC 2019-2020\04_C# Basic\Vezbi i proekti\BasicCSharpTasksAndExercises\Class3_exercise3_arrays\bin\Debug\netcoreapp3.1\Class3_exercise3_arrays.pdb
+C:\Users\hrist\Desktop\SEDC 2019-2020\04_C# Basic\Vezbi i proekti\BasicCSharpTasksAndExercises\Class3_exercise3_arrays\obj\Debug\netcoreapp3.1\Class3_exercise3_arrays.csprojAssemblyReference.cache
+C:\Users\hrist\Desktop\SEDC 2019-2020\04_C# Basic\Vezbi i proekti\BasicCSharpTasksAndExercises\Class3_exercise3_arrays\obj\Debug\netcoreapp3.1\Class3_exercise3_arrays.AssemblyInfoInputs.cache
+C:\Users\hrist\Desktop\SEDC 2019-2020\04_C# Basic\Vezbi i proekti\BasicCSharpTasksAndExercises\Class3_exercise3_arrays\obj\Debug\netcoreapp3.1\Class3_exercise3_arrays.AssemblyInfo.cs
+C:\Users\hrist\Desktop\SEDC 2019-2020\04_C# Basic\Vezbi i proekti\BasicCSharpTasksAndExercises\Class3_exercise3_arrays\obj\Debug\netcoreapp3.1\Class3_exercise3_arrays.dll
+C:\Users\hrist\Desktop\SEDC 2019-2020\04_C# Basic\Vezbi i proekti\BasicCSharpTasksAndExercises\Class3_exercise3_arrays\obj\Debug\netcoreapp3.1\Class3_exercise3_arrays.pdb

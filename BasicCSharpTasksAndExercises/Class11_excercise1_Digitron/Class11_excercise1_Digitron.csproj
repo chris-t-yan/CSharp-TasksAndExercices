@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="Class11_excercise1_Calculator">
+      <HintPath>..\.dll class 11\Class11_excercise1_Calculator.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,12 @@
+C:\Users\hrist\Desktop\SEDC 2019-2020\04_C# Basic\Vezbi i proekti\BasicCSharpTasksAndExercises\Class5_Dates\bin\Debug\netcoreapp3.1\Class5_Dates.exe
+C:\Users\hrist\Desktop\SEDC 2019-2020\04_C# Basic\Vezbi i proekti\BasicCSharpTasksAndExercises\Class5_Dates\bin\Debug\netcoreapp3.1\Class5_Dates.deps.json
+C:\Users\hrist\Desktop\SEDC 2019-2020\04_C# Basic\Vezbi i proekti\BasicCSharpTasksAndExercises\Class5_Dates\bin\Debug\netcoreapp3.1\Class5_Dates.runtimeconfig.json
+C:\Users\hrist\Desktop\SEDC 2019-2020\04_C# Basic\Vezbi i proekti\BasicCSharpTasksAndExercises\Class5_Dates\bin\Debug\netcoreapp3.1\Class5_Dates.runtimeconfig.dev.json
+C:\Users\hrist\Desktop\SEDC 2019-2020\04_C# Basic\Vezbi i proekti\BasicCSharpTasksAndExercises\Class5_Dates\bin\Debug\netcoreapp3.1\Class5_Dates.dll
+C:\Users\hrist\Desktop\SEDC 2019-2020\04_C# Basic\Vezbi i proekti\BasicCSharpTasksAndExercises\Class5_Dates\bin\Debug\netcoreapp3.1\Class5_Dates.pdb
+C:\Users\hrist\Desktop\SEDC 2019-2020\04_C# Basic\Vezbi i proekti\BasicCSharpTasksAndExercises\Class5_Dates\obj\Debug\netcoreapp3.1\Class5_Dates.csproj.CoreCompileInputs.cache
+C:\Users\hrist\Desktop\SEDC 2019-2020\04_C# Basic\Vezbi i proekti\BasicCSharpTasksAndExercises\Class5_Dates\obj\Debug\netcoreapp3.1\Class5_Dates.AssemblyInfoInputs.cache
+C:\Users\hrist\Desktop\SEDC 2019-2020\04_C# Basic\Vezbi i proekti\BasicCSharpTasksAndExercises\Class5_Dates\obj\Debug\netcoreapp3.1\Class5_Dates.AssemblyInfo.cs
+C:\Users\hrist\Desktop\SEDC 2019-2020\04_C# Basic\Vezbi i proekti\BasicCSharpTasksAndExercises\Class5_Dates\obj\Debug\netcoreapp3.1\Class5_Dates.dll
+C:\Users\hrist\Desktop\SEDC 2019-2020\04_C# Basic\Vezbi i proekti\BasicCSharpTasksAndExercises\Class5_Dates\obj\Debug\netcoreapp3.1\Class5_Dates.pdb
+C:\Users\hrist\Desktop\SEDC 2019-2020\04_C# Basic\Vezbi i proekti\BasicCSharpTasksAndExercises\Class5_Dates\obj\Debug\netcoreapp3.1\Class5_Dates.genruntimeconfig.cache

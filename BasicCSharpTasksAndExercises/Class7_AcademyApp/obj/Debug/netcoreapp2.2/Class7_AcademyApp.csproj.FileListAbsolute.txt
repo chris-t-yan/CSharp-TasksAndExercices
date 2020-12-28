@@ -1,0 +1,12 @@
+C:\Users\hrist\Desktop\SEDC 2019-2020\04_C# Basic\Vezbi i proekti\BasicCSharpTasksAndExercises\Class7_AcademyApp\bin\Debug\netcoreapp2.2\Class7_AcademyApp.deps.json
+C:\Users\hrist\Desktop\SEDC 2019-2020\04_C# Basic\Vezbi i proekti\BasicCSharpTasksAndExercises\Class7_AcademyApp\bin\Debug\netcoreapp2.2\Class7_AcademyApp.runtimeconfig.json
+C:\Users\hrist\Desktop\SEDC 2019-2020\04_C# Basic\Vezbi i proekti\BasicCSharpTasksAndExercises\Class7_AcademyApp\bin\Debug\netcoreapp2.2\Class7_AcademyApp.runtimeconfig.dev.json
+C:\Users\hrist\Desktop\SEDC 2019-2020\04_C# Basic\Vezbi i proekti\BasicCSharpTasksAndExercises\Class7_AcademyApp\bin\Debug\netcoreapp2.2\Class7_AcademyApp.dll
+C:\Users\hrist\Desktop\SEDC 2019-2020\04_C# Basic\Vezbi i proekti\BasicCSharpTasksAndExercises\Class7_AcademyApp\bin\Debug\netcoreapp2.2\Class7_AcademyApp.pdb
+C:\Users\hrist\Desktop\SEDC 2019-2020\04_C# Basic\Vezbi i proekti\BasicCSharpTasksAndExercises\Class7_AcademyApp\obj\Debug\netcoreapp2.2\Class7_AcademyApp.csprojAssemblyReference.cache
+C:\Users\hrist\Desktop\SEDC 2019-2020\04_C# Basic\Vezbi i proekti\BasicCSharpTasksAndExercises\Class7_AcademyApp\obj\Debug\netcoreapp2.2\Class7_AcademyApp.csproj.CoreCompileInputs.cache
+C:\Users\hrist\Desktop\SEDC 2019-2020\04_C# Basic\Vezbi i proekti\BasicCSharpTasksAndExercises\Class7_AcademyApp\obj\Debug\netcoreapp2.2\Class7_AcademyApp.AssemblyInfoInputs.cache
+C:\Users\hrist\Desktop\SEDC 2019-2020\04_C# Basic\Vezbi i proekti\BasicCSharpTasksAndExercises\Class7_AcademyApp\obj\Debug\netcoreapp2.2\Class7_AcademyApp.AssemblyInfo.cs
+C:\Users\hrist\Desktop\SEDC 2019-2020\04_C# Basic\Vezbi i proekti\BasicCSharpTasksAndExercises\Class7_AcademyApp\obj\Debug\netcoreapp2.2\Class7_AcademyApp.dll
+C:\Users\hrist\Desktop\SEDC 2019-2020\04_C# Basic\Vezbi i proekti\BasicCSharpTasksAndExercises\Class7_AcademyApp\obj\Debug\netcoreapp2.2\Class7_AcademyApp.pdb
+C:\Users\hrist\Desktop\SEDC 2019-2020\04_C# Basic\Vezbi i proekti\BasicCSharpTasksAndExercises\Class7_AcademyApp\obj\Debug\netcoreapp2.2\Class7_AcademyApp.genruntimeconfig.cache

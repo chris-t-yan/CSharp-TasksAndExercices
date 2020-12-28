@@ -1,0 +1,12 @@
+C:\Users\hrist\Desktop\SEDC 2019-2020\04_C# Basic\Vezbi i proekti\BasicCSharpTasksAndExercises\Class14_exercise1_ExceptionBasics\bin\Debug\netcoreapp3.1\Class14_exercise1_ExceptionBasics.exe
+C:\Users\hrist\Desktop\SEDC 2019-2020\04_C# Basic\Vezbi i proekti\BasicCSharpTasksAndExercises\Class14_exercise1_ExceptionBasics\bin\Debug\netcoreapp3.1\Class14_exercise1_ExceptionBasics.deps.json
+C:\Users\hrist\Desktop\SEDC 2019-2020\04_C# Basic\Vezbi i proekti\BasicCSharpTasksAndExercises\Class14_exercise1_ExceptionBasics\bin\Debug\netcoreapp3.1\Class14_exercise1_ExceptionBasics.runtimeconfig.json
+C:\Users\hrist\Desktop\SEDC 2019-2020\04_C# Basic\Vezbi i proekti\BasicCSharpTasksAndExercises\Class14_exercise1_ExceptionBasics\bin\Debug\netcoreapp3.1\Class14_exercise1_ExceptionBasics.runtimeconfig.dev.json
+C:\Users\hrist\Desktop\SEDC 2019-2020\04_C# Basic\Vezbi i proekti\BasicCSharpTasksAndExercises\Class14_exercise1_ExceptionBasics\bin\Debug\netcoreapp3.1\Class14_exercise1_ExceptionBasics.dll
+C:\Users\hrist\Desktop\SEDC 2019-2020\04_C# Basic\Vezbi i proekti\BasicCSharpTasksAndExercises\Class14_exercise1_ExceptionBasics\bin\Debug\netcoreapp3.1\Class14_exercise1_ExceptionBasics.pdb
+C:\Users\hrist\Desktop\SEDC 2019-2020\04_C# Basic\Vezbi i proekti\BasicCSharpTasksAndExercises\Class14_exercise1_ExceptionBasics\obj\Debug\netcoreapp3.1\Class14_exercise1_ExceptionBasics.csproj.CoreCompileInputs.cache
+C:\Users\hrist\Desktop\SEDC 2019-2020\04_C# Basic\Vezbi i proekti\BasicCSharpTasksAndExercises\Class14_exercise1_ExceptionBasics\obj\Debug\netcoreapp3.1\Class14_exercise1_ExceptionBasics.AssemblyInfoInputs.cache
+C:\Users\hrist\Desktop\SEDC 2019-2020\04_C# Basic\Vezbi i proekti\BasicCSharpTasksAndExercises\Class14_exercise1_ExceptionBasics\obj\Debug\netcoreapp3.1\Class14_exercise1_ExceptionBasics.AssemblyInfo.cs
+C:\Users\hrist\Desktop\SEDC 2019-2020\04_C# Basic\Vezbi i proekti\BasicCSharpTasksAndExercises\Class14_exercise1_ExceptionBasics\obj\Debug\netcoreapp3.1\Class14_exercise1_ExceptionBasics.dll
+C:\Users\hrist\Desktop\SEDC 2019-2020\04_C# Basic\Vezbi i proekti\BasicCSharpTasksAndExercises\Class14_exercise1_ExceptionBasics\obj\Debug\netcoreapp3.1\Class14_exercise1_ExceptionBasics.pdb
+C:\Users\hrist\Desktop\SEDC 2019-2020\04_C# Basic\Vezbi i proekti\BasicCSharpTasksAndExercises\Class14_exercise1_ExceptionBasics\obj\Debug\netcoreapp3.1\Class14_exercise1_ExceptionBasics.genruntimeconfig.cache

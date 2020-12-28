@@ -1,0 +1,13 @@
+C:\Users\hrist\Desktop\SEDC 2019-2020\04_C# Basic\Vezbi i proekti\BasicCSharpTasksAndExercises\Class6_Classes\bin\Debug\netcoreapp3.1\Class6_Classes.exe
+C:\Users\hrist\Desktop\SEDC 2019-2020\04_C# Basic\Vezbi i proekti\BasicCSharpTasksAndExercises\Class6_Classes\bin\Debug\netcoreapp3.1\Class6_Classes.deps.json
+C:\Users\hrist\Desktop\SEDC 2019-2020\04_C# Basic\Vezbi i proekti\BasicCSharpTasksAndExercises\Class6_Classes\bin\Debug\netcoreapp3.1\Class6_Classes.runtimeconfig.json
+C:\Users\hrist\Desktop\SEDC 2019-2020\04_C# Basic\Vezbi i proekti\BasicCSharpTasksAndExercises\Class6_Classes\bin\Debug\netcoreapp3.1\Class6_Classes.runtimeconfig.dev.json
+C:\Users\hrist\Desktop\SEDC 2019-2020\04_C# Basic\Vezbi i proekti\BasicCSharpTasksAndExercises\Class6_Classes\bin\Debug\netcoreapp3.1\Class6_Classes.dll
+C:\Users\hrist\Desktop\SEDC 2019-2020\04_C# Basic\Vezbi i proekti\BasicCSharpTasksAndExercises\Class6_Classes\bin\Debug\netcoreapp3.1\Class6_Classes.pdb
+C:\Users\hrist\Desktop\SEDC 2019-2020\04_C# Basic\Vezbi i proekti\BasicCSharpTasksAndExercises\Class6_Classes\obj\Debug\netcoreapp3.1\Class6_Classes.csproj.CoreCompileInputs.cache
+C:\Users\hrist\Desktop\SEDC 2019-2020\04_C# Basic\Vezbi i proekti\BasicCSharpTasksAndExercises\Class6_Classes\obj\Debug\netcoreapp3.1\Class6_Classes.AssemblyInfoInputs.cache
+C:\Users\hrist\Desktop\SEDC 2019-2020\04_C# Basic\Vezbi i proekti\BasicCSharpTasksAndExercises\Class6_Classes\obj\Debug\netcoreapp3.1\Class6_Classes.AssemblyInfo.cs
+C:\Users\hrist\Desktop\SEDC 2019-2020\04_C# Basic\Vezbi i proekti\BasicCSharpTasksAndExercises\Class6_Classes\obj\Debug\netcoreapp3.1\Class6_Classes.dll
+C:\Users\hrist\Desktop\SEDC 2019-2020\04_C# Basic\Vezbi i proekti\BasicCSharpTasksAndExercises\Class6_Classes\obj\Debug\netcoreapp3.1\Class6_Classes.pdb
+C:\Users\hrist\Desktop\SEDC 2019-2020\04_C# Basic\Vezbi i proekti\BasicCSharpTasksAndExercises\Class6_Classes\obj\Debug\netcoreapp3.1\Class6_Classes.genruntimeconfig.cache
+C:\Users\hrist\Desktop\SEDC 2019-2020\04_C# Basic\Vezbi i proekti\BasicCSharpTasksAndExercises\Class6_Classes\obj\Debug\netcoreapp3.1\Class6_Classes.csprojAssemblyReference.cache

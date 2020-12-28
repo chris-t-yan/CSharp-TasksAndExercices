@@ -1,0 +1,9 @@
+C:\Users\hrist\Desktop\SEDC 2019-2020\04_C# Basic\Vezbi i proekti\BasicCSharpTasksAndExercises\Class7_SubjectServices\bin\Debug\netcoreapp3.1\Class7_SubjectServices.deps.json
+C:\Users\hrist\Desktop\SEDC 2019-2020\04_C# Basic\Vezbi i proekti\BasicCSharpTasksAndExercises\Class7_SubjectServices\bin\Debug\netcoreapp3.1\Class7_SubjectServices.dll
+C:\Users\hrist\Desktop\SEDC 2019-2020\04_C# Basic\Vezbi i proekti\BasicCSharpTasksAndExercises\Class7_SubjectServices\bin\Debug\netcoreapp3.1\Class7_SubjectServices.pdb
+C:\Users\hrist\Desktop\SEDC 2019-2020\04_C# Basic\Vezbi i proekti\BasicCSharpTasksAndExercises\Class7_SubjectServices\obj\Debug\netcoreapp3.1\Class7_SubjectServices.csproj.CoreCompileInputs.cache
+C:\Users\hrist\Desktop\SEDC 2019-2020\04_C# Basic\Vezbi i proekti\BasicCSharpTasksAndExercises\Class7_SubjectServices\obj\Debug\netcoreapp3.1\Class7_SubjectServices.AssemblyInfoInputs.cache
+C:\Users\hrist\Desktop\SEDC 2019-2020\04_C# Basic\Vezbi i proekti\BasicCSharpTasksAndExercises\Class7_SubjectServices\obj\Debug\netcoreapp3.1\Class7_SubjectServices.AssemblyInfo.cs
+C:\Users\hrist\Desktop\SEDC 2019-2020\04_C# Basic\Vezbi i proekti\BasicCSharpTasksAndExercises\Class7_SubjectServices\obj\Debug\netcoreapp3.1\Class7_SubjectServices.dll
+C:\Users\hrist\Desktop\SEDC 2019-2020\04_C# Basic\Vezbi i proekti\BasicCSharpTasksAndExercises\Class7_SubjectServices\obj\Debug\netcoreapp3.1\Class7_SubjectServices.pdb
+C:\Users\hrist\Desktop\SEDC 2019-2020\04_C# Basic\Vezbi i proekti\BasicCSharpTasksAndExercises\Class7_SubjectServices\obj\Debug\netcoreapp3.1\Class7_SubjectServices.csprojAssemblyReference.cache

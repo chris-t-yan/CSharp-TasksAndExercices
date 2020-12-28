@@ -1,0 +1,15 @@
+C:\Users\hrist\Desktop\SEDC 2019-2020\04_C# Basic\Vezbi i proekti\BasicCSharpTasksAndExercises\Class11_excercise1_Digitron\bin\Debug\netcoreapp3.1\Class11_excercise1_Digitron.exe
+C:\Users\hrist\Desktop\SEDC 2019-2020\04_C# Basic\Vezbi i proekti\BasicCSharpTasksAndExercises\Class11_excercise1_Digitron\bin\Debug\netcoreapp3.1\Class11_excercise1_Digitron.deps.json
+C:\Users\hrist\Desktop\SEDC 2019-2020\04_C# Basic\Vezbi i proekti\BasicCSharpTasksAndExercises\Class11_excercise1_Digitron\bin\Debug\netcoreapp3.1\Class11_excercise1_Digitron.runtimeconfig.json
+C:\Users\hrist\Desktop\SEDC 2019-2020\04_C# Basic\Vezbi i proekti\BasicCSharpTasksAndExercises\Class11_excercise1_Digitron\bin\Debug\netcoreapp3.1\Class11_excercise1_Digitron.runtimeconfig.dev.json
+C:\Users\hrist\Desktop\SEDC 2019-2020\04_C# Basic\Vezbi i proekti\BasicCSharpTasksAndExercises\Class11_excercise1_Digitron\bin\Debug\netcoreapp3.1\Class11_excercise1_Digitron.dll
+C:\Users\hrist\Desktop\SEDC 2019-2020\04_C# Basic\Vezbi i proekti\BasicCSharpTasksAndExercises\Class11_excercise1_Digitron\bin\Debug\netcoreapp3.1\Class11_excercise1_Digitron.pdb
+C:\Users\hrist\Desktop\SEDC 2019-2020\04_C# Basic\Vezbi i proekti\BasicCSharpTasksAndExercises\Class11_excercise1_Digitron\bin\Debug\netcoreapp3.1\Class11_excercise1_Calculator.dll
+C:\Users\hrist\Desktop\SEDC 2019-2020\04_C# Basic\Vezbi i proekti\BasicCSharpTasksAndExercises\Class11_excercise1_Digitron\obj\Debug\netcoreapp3.1\Class11_excercise1_Digitron.csprojAssemblyReference.cache
+C:\Users\hrist\Desktop\SEDC 2019-2020\04_C# Basic\Vezbi i proekti\BasicCSharpTasksAndExercises\Class11_excercise1_Digitron\obj\Debug\netcoreapp3.1\Class11_excercise1_Digitron.csproj.CoreCompileInputs.cache
+C:\Users\hrist\Desktop\SEDC 2019-2020\04_C# Basic\Vezbi i proekti\BasicCSharpTasksAndExercises\Class11_excercise1_Digitron\obj\Debug\netcoreapp3.1\Class11_excercise1_Digitron.AssemblyInfoInputs.cache
+C:\Users\hrist\Desktop\SEDC 2019-2020\04_C# Basic\Vezbi i proekti\BasicCSharpTasksAndExercises\Class11_excercise1_Digitron\obj\Debug\netcoreapp3.1\Class11_excercise1_Digitron.AssemblyInfo.cs
+C:\Users\hrist\Desktop\SEDC 2019-2020\04_C# Basic\Vezbi i proekti\BasicCSharpTasksAndExercises\Class11_excercise1_Digitron\obj\Debug\netcoreapp3.1\Class11_excercise1_Digitron.csproj.CopyComplete
+C:\Users\hrist\Desktop\SEDC 2019-2020\04_C# Basic\Vezbi i proekti\BasicCSharpTasksAndExercises\Class11_excercise1_Digitron\obj\Debug\netcoreapp3.1\Class11_excercise1_Digitron.dll
+C:\Users\hrist\Desktop\SEDC 2019-2020\04_C# Basic\Vezbi i proekti\BasicCSharpTasksAndExercises\Class11_excercise1_Digitron\obj\Debug\netcoreapp3.1\Class11_excercise1_Digitron.pdb
+C:\Users\hrist\Desktop\SEDC 2019-2020\04_C# Basic\Vezbi i proekti\BasicCSharpTasksAndExercises\Class11_excercise1_Digitron\obj\Debug\netcoreapp3.1\Class11_excercise1_Digitron.genruntimeconfig.cache

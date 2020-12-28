@@ -1,0 +1,9 @@
+C:\Users\hrist\Desktop\SEDC 2019-2020\04_C# Basic\Vezbi i proekti\BasicCSharpTasksAndExercises\LottoServices\bin\Debug\netcoreapp3.1\LottoServices.deps.json
+C:\Users\hrist\Desktop\SEDC 2019-2020\04_C# Basic\Vezbi i proekti\BasicCSharpTasksAndExercises\LottoServices\bin\Debug\netcoreapp3.1\LottoServices.dll
+C:\Users\hrist\Desktop\SEDC 2019-2020\04_C# Basic\Vezbi i proekti\BasicCSharpTasksAndExercises\LottoServices\bin\Debug\netcoreapp3.1\LottoServices.pdb
+C:\Users\hrist\Desktop\SEDC 2019-2020\04_C# Basic\Vezbi i proekti\BasicCSharpTasksAndExercises\LottoServices\obj\Debug\netcoreapp3.1\LottoServices.csproj.CoreCompileInputs.cache
+C:\Users\hrist\Desktop\SEDC 2019-2020\04_C# Basic\Vezbi i proekti\BasicCSharpTasksAndExercises\LottoServices\obj\Debug\netcoreapp3.1\LottoServices.AssemblyInfoInputs.cache
+C:\Users\hrist\Desktop\SEDC 2019-2020\04_C# Basic\Vezbi i proekti\BasicCSharpTasksAndExercises\LottoServices\obj\Debug\netcoreapp3.1\LottoServices.AssemblyInfo.cs
+C:\Users\hrist\Desktop\SEDC 2019-2020\04_C# Basic\Vezbi i proekti\BasicCSharpTasksAndExercises\LottoServices\obj\Debug\netcoreapp3.1\LottoServices.dll
+C:\Users\hrist\Desktop\SEDC 2019-2020\04_C# Basic\Vezbi i proekti\BasicCSharpTasksAndExercises\LottoServices\obj\Debug\netcoreapp3.1\LottoServices.pdb
+C:\Users\hrist\Desktop\SEDC 2019-2020\04_C# Basic\Vezbi i proekti\BasicCSharpTasksAndExercises\LottoServices\obj\Debug\netcoreapp3.1\LottoServices.csprojAssemblyReference.cache

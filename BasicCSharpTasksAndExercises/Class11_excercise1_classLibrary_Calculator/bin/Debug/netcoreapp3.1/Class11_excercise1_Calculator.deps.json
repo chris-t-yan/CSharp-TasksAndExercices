@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Class11_excercise1_Calculator/1.0.0": {
+        "runtime": {
+          "Class11_excercise1_Calculator.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Class11_excercise1_Calculator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
