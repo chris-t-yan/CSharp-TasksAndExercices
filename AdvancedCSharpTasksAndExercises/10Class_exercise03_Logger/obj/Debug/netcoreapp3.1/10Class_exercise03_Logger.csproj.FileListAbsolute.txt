@@ -1,0 +1,12 @@
+C:\Users\hrist\Desktop\SEDC 2019-2020\05_C# Advanced\Vezbi i proekti\AdvancedCSharpTasksAndExercises\AdvancedCSharp\10Class_exercise03_Logger\bin\Debug\netcoreapp3.1\10Class_exercise03_Logger.exe
+C:\Users\hrist\Desktop\SEDC 2019-2020\05_C# Advanced\Vezbi i proekti\AdvancedCSharpTasksAndExercises\AdvancedCSharp\10Class_exercise03_Logger\bin\Debug\netcoreapp3.1\10Class_exercise03_Logger.deps.json
+C:\Users\hrist\Desktop\SEDC 2019-2020\05_C# Advanced\Vezbi i proekti\AdvancedCSharpTasksAndExercises\AdvancedCSharp\10Class_exercise03_Logger\bin\Debug\netcoreapp3.1\10Class_exercise03_Logger.runtimeconfig.json
+C:\Users\hrist\Desktop\SEDC 2019-2020\05_C# Advanced\Vezbi i proekti\AdvancedCSharpTasksAndExercises\AdvancedCSharp\10Class_exercise03_Logger\bin\Debug\netcoreapp3.1\10Class_exercise03_Logger.runtimeconfig.dev.json
+C:\Users\hrist\Desktop\SEDC 2019-2020\05_C# Advanced\Vezbi i proekti\AdvancedCSharpTasksAndExercises\AdvancedCSharp\10Class_exercise03_Logger\bin\Debug\netcoreapp3.1\10Class_exercise03_Logger.dll
+C:\Users\hrist\Desktop\SEDC 2019-2020\05_C# Advanced\Vezbi i proekti\AdvancedCSharpTasksAndExercises\AdvancedCSharp\10Class_exercise03_Logger\bin\Debug\netcoreapp3.1\10Class_exercise03_Logger.pdb
+C:\Users\hrist\Desktop\SEDC 2019-2020\05_C# Advanced\Vezbi i proekti\AdvancedCSharpTasksAndExercises\AdvancedCSharp\10Class_exercise03_Logger\obj\Debug\netcoreapp3.1\10Class_exercise03_Logger.csproj.CoreCompileInputs.cache
+C:\Users\hrist\Desktop\SEDC 2019-2020\05_C# Advanced\Vezbi i proekti\AdvancedCSharpTasksAndExercises\AdvancedCSharp\10Class_exercise03_Logger\obj\Debug\netcoreapp3.1\10Class_exercise03_Logger.AssemblyInfoInputs.cache
+C:\Users\hrist\Desktop\SEDC 2019-2020\05_C# Advanced\Vezbi i proekti\AdvancedCSharpTasksAndExercises\AdvancedCSharp\10Class_exercise03_Logger\obj\Debug\netcoreapp3.1\10Class_exercise03_Logger.AssemblyInfo.cs
+C:\Users\hrist\Desktop\SEDC 2019-2020\05_C# Advanced\Vezbi i proekti\AdvancedCSharpTasksAndExercises\AdvancedCSharp\10Class_exercise03_Logger\obj\Debug\netcoreapp3.1\10Class_exercise03_Logger.dll
+C:\Users\hrist\Desktop\SEDC 2019-2020\05_C# Advanced\Vezbi i proekti\AdvancedCSharpTasksAndExercises\AdvancedCSharp\10Class_exercise03_Logger\obj\Debug\netcoreapp3.1\10Class_exercise03_Logger.pdb
+C:\Users\hrist\Desktop\SEDC 2019-2020\05_C# Advanced\Vezbi i proekti\AdvancedCSharpTasksAndExercises\AdvancedCSharp\10Class_exercise03_Logger\obj\Debug\netcoreapp3.1\10Class_exercise03_Logger.genruntimeconfig.cache

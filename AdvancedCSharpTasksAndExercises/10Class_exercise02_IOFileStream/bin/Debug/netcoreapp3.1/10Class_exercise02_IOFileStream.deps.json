@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "10Class_exercise02_IOFileStream/1.0.0": {
+        "runtime": {
+          "10Class_exercise02_IOFileStream.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "10Class_exercise02_IOFileStream/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

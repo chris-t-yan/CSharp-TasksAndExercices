@@ -1,0 +1,13 @@
+C:\Users\hrist\Desktop\SEDC 2019-2020\05_C# Advanced\AdvancedCSharpTasksAndExercises\AdvancedCSharp\14Class_exercise01_AsyncProgramming\bin\Debug\netcoreapp3.1\14Class_exercise01_AsyncProgramming.exe
+C:\Users\hrist\Desktop\SEDC 2019-2020\05_C# Advanced\AdvancedCSharpTasksAndExercises\AdvancedCSharp\14Class_exercise01_AsyncProgramming\bin\Debug\netcoreapp3.1\14Class_exercise01_AsyncProgramming.deps.json
+C:\Users\hrist\Desktop\SEDC 2019-2020\05_C# Advanced\AdvancedCSharpTasksAndExercises\AdvancedCSharp\14Class_exercise01_AsyncProgramming\bin\Debug\netcoreapp3.1\14Class_exercise01_AsyncProgramming.runtimeconfig.json
+C:\Users\hrist\Desktop\SEDC 2019-2020\05_C# Advanced\AdvancedCSharpTasksAndExercises\AdvancedCSharp\14Class_exercise01_AsyncProgramming\bin\Debug\netcoreapp3.1\14Class_exercise01_AsyncProgramming.runtimeconfig.dev.json
+C:\Users\hrist\Desktop\SEDC 2019-2020\05_C# Advanced\AdvancedCSharpTasksAndExercises\AdvancedCSharp\14Class_exercise01_AsyncProgramming\bin\Debug\netcoreapp3.1\14Class_exercise01_AsyncProgramming.dll
+C:\Users\hrist\Desktop\SEDC 2019-2020\05_C# Advanced\AdvancedCSharpTasksAndExercises\AdvancedCSharp\14Class_exercise01_AsyncProgramming\bin\Debug\netcoreapp3.1\14Class_exercise01_AsyncProgramming.pdb
+C:\Users\hrist\Desktop\SEDC 2019-2020\05_C# Advanced\AdvancedCSharpTasksAndExercises\AdvancedCSharp\14Class_exercise01_AsyncProgramming\obj\Debug\netcoreapp3.1\14Class_exercise01_AsyncProgramming.csprojAssemblyReference.cache
+C:\Users\hrist\Desktop\SEDC 2019-2020\05_C# Advanced\AdvancedCSharpTasksAndExercises\AdvancedCSharp\14Class_exercise01_AsyncProgramming\obj\Debug\netcoreapp3.1\14Class_exercise01_AsyncProgramming.csproj.CoreCompileInputs.cache
+C:\Users\hrist\Desktop\SEDC 2019-2020\05_C# Advanced\AdvancedCSharpTasksAndExercises\AdvancedCSharp\14Class_exercise01_AsyncProgramming\obj\Debug\netcoreapp3.1\14Class_exercise01_AsyncProgramming.AssemblyInfoInputs.cache
+C:\Users\hrist\Desktop\SEDC 2019-2020\05_C# Advanced\AdvancedCSharpTasksAndExercises\AdvancedCSharp\14Class_exercise01_AsyncProgramming\obj\Debug\netcoreapp3.1\14Class_exercise01_AsyncProgramming.AssemblyInfo.cs
+C:\Users\hrist\Desktop\SEDC 2019-2020\05_C# Advanced\AdvancedCSharpTasksAndExercises\AdvancedCSharp\14Class_exercise01_AsyncProgramming\obj\Debug\netcoreapp3.1\14Class_exercise01_AsyncProgramming.dll
+C:\Users\hrist\Desktop\SEDC 2019-2020\05_C# Advanced\AdvancedCSharpTasksAndExercises\AdvancedCSharp\14Class_exercise01_AsyncProgramming\obj\Debug\netcoreapp3.1\14Class_exercise01_AsyncProgramming.pdb
+C:\Users\hrist\Desktop\SEDC 2019-2020\05_C# Advanced\AdvancedCSharpTasksAndExercises\AdvancedCSharp\14Class_exercise01_AsyncProgramming\obj\Debug\netcoreapp3.1\14Class_exercise01_AsyncProgramming.genruntimeconfig.cache

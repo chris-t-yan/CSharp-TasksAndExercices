@@ -1,0 +1,24 @@
+C:\Users\hrist\Desktop\SEDC 2019-2020\05_C# Advanced\Vezbi i proekti\AdvancedCSharpTasksAndExercises\AdvancedCSharp\01Class_excercise01\bin\Debug\netcoreapp3.1\01Class_excercise01.exe
+C:\Users\hrist\Desktop\SEDC 2019-2020\05_C# Advanced\Vezbi i proekti\AdvancedCSharpTasksAndExercises\AdvancedCSharp\01Class_excercise01\bin\Debug\netcoreapp3.1\01Class_excercise01.deps.json
+C:\Users\hrist\Desktop\SEDC 2019-2020\05_C# Advanced\Vezbi i proekti\AdvancedCSharpTasksAndExercises\AdvancedCSharp\01Class_excercise01\bin\Debug\netcoreapp3.1\01Class_excercise01.runtimeconfig.json
+C:\Users\hrist\Desktop\SEDC 2019-2020\05_C# Advanced\Vezbi i proekti\AdvancedCSharpTasksAndExercises\AdvancedCSharp\01Class_excercise01\bin\Debug\netcoreapp3.1\01Class_excercise01.runtimeconfig.dev.json
+C:\Users\hrist\Desktop\SEDC 2019-2020\05_C# Advanced\Vezbi i proekti\AdvancedCSharpTasksAndExercises\AdvancedCSharp\01Class_excercise01\bin\Debug\netcoreapp3.1\01Class_excercise01.dll
+C:\Users\hrist\Desktop\SEDC 2019-2020\05_C# Advanced\Vezbi i proekti\AdvancedCSharpTasksAndExercises\AdvancedCSharp\01Class_excercise01\bin\Debug\netcoreapp3.1\01Class_excercise01.pdb
+C:\Users\hrist\Desktop\SEDC 2019-2020\05_C# Advanced\Vezbi i proekti\AdvancedCSharpTasksAndExercises\AdvancedCSharp\01Class_excercise01\obj\Debug\netcoreapp3.1\01Class_excercise01.csproj.CoreCompileInputs.cache
+C:\Users\hrist\Desktop\SEDC 2019-2020\05_C# Advanced\Vezbi i proekti\AdvancedCSharpTasksAndExercises\AdvancedCSharp\01Class_excercise01\obj\Debug\netcoreapp3.1\01Class_excercise01.AssemblyInfoInputs.cache
+C:\Users\hrist\Desktop\SEDC 2019-2020\05_C# Advanced\Vezbi i proekti\AdvancedCSharpTasksAndExercises\AdvancedCSharp\01Class_excercise01\obj\Debug\netcoreapp3.1\01Class_excercise01.AssemblyInfo.cs
+C:\Users\hrist\Desktop\SEDC 2019-2020\05_C# Advanced\Vezbi i proekti\AdvancedCSharpTasksAndExercises\AdvancedCSharp\01Class_excercise01\obj\Debug\netcoreapp3.1\01Class_excercise01.dll
+C:\Users\hrist\Desktop\SEDC 2019-2020\05_C# Advanced\Vezbi i proekti\AdvancedCSharpTasksAndExercises\AdvancedCSharp\01Class_excercise01\obj\Debug\netcoreapp3.1\01Class_excercise01.pdb
+C:\Users\hrist\Desktop\SEDC 2019-2020\05_C# Advanced\Vezbi i proekti\AdvancedCSharpTasksAndExercises\AdvancedCSharp\01Class_excercise01\obj\Debug\netcoreapp3.1\01Class_excercise01.genruntimeconfig.cache
+C:\Users\hrist\Desktop\SEDC 2019-2020\05_C# Advanced\BasicCSharpTasksAndExercises\AdvancedCSharpTasksAndExercises\AdvancedCSharp\01Class_excercise01\bin\Debug\netcoreapp3.1\01Class_excercise01.exe
+C:\Users\hrist\Desktop\SEDC 2019-2020\05_C# Advanced\BasicCSharpTasksAndExercises\AdvancedCSharpTasksAndExercises\AdvancedCSharp\01Class_excercise01\bin\Debug\netcoreapp3.1\01Class_excercise01.deps.json
+C:\Users\hrist\Desktop\SEDC 2019-2020\05_C# Advanced\BasicCSharpTasksAndExercises\AdvancedCSharpTasksAndExercises\AdvancedCSharp\01Class_excercise01\bin\Debug\netcoreapp3.1\01Class_excercise01.runtimeconfig.json
+C:\Users\hrist\Desktop\SEDC 2019-2020\05_C# Advanced\BasicCSharpTasksAndExercises\AdvancedCSharpTasksAndExercises\AdvancedCSharp\01Class_excercise01\bin\Debug\netcoreapp3.1\01Class_excercise01.runtimeconfig.dev.json
+C:\Users\hrist\Desktop\SEDC 2019-2020\05_C# Advanced\BasicCSharpTasksAndExercises\AdvancedCSharpTasksAndExercises\AdvancedCSharp\01Class_excercise01\bin\Debug\netcoreapp3.1\01Class_excercise01.dll
+C:\Users\hrist\Desktop\SEDC 2019-2020\05_C# Advanced\BasicCSharpTasksAndExercises\AdvancedCSharpTasksAndExercises\AdvancedCSharp\01Class_excercise01\bin\Debug\netcoreapp3.1\01Class_excercise01.pdb
+C:\Users\hrist\Desktop\SEDC 2019-2020\05_C# Advanced\BasicCSharpTasksAndExercises\AdvancedCSharpTasksAndExercises\AdvancedCSharp\01Class_excercise01\obj\Debug\netcoreapp3.1\01Class_excercise01.csprojAssemblyReference.cache
+C:\Users\hrist\Desktop\SEDC 2019-2020\05_C# Advanced\BasicCSharpTasksAndExercises\AdvancedCSharpTasksAndExercises\AdvancedCSharp\01Class_excercise01\obj\Debug\netcoreapp3.1\01Class_excercise01.AssemblyInfoInputs.cache
+C:\Users\hrist\Desktop\SEDC 2019-2020\05_C# Advanced\BasicCSharpTasksAndExercises\AdvancedCSharpTasksAndExercises\AdvancedCSharp\01Class_excercise01\obj\Debug\netcoreapp3.1\01Class_excercise01.AssemblyInfo.cs
+C:\Users\hrist\Desktop\SEDC 2019-2020\05_C# Advanced\BasicCSharpTasksAndExercises\AdvancedCSharpTasksAndExercises\AdvancedCSharp\01Class_excercise01\obj\Debug\netcoreapp3.1\01Class_excercise01.dll
+C:\Users\hrist\Desktop\SEDC 2019-2020\05_C# Advanced\BasicCSharpTasksAndExercises\AdvancedCSharpTasksAndExercises\AdvancedCSharp\01Class_excercise01\obj\Debug\netcoreapp3.1\01Class_excercise01.pdb
+C:\Users\hrist\Desktop\SEDC 2019-2020\05_C# Advanced\Vezbi i proekti\AdvancedCSharpTasksAndExercises\AdvancedCSharp\01Class_excercise01\obj\Debug\netcoreapp3.1\01Class_excercise01.csprojAssemblyReference.cache

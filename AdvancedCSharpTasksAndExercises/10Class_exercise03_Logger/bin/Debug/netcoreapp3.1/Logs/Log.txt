@@ -1,0 +1,30 @@
+[ERROR]: Invalid user
+[TIMESTAMP]: 30.6.2020 20:50:03
+[USER]: Unknown user
+[MESSAGE]: Invalid credentials
+----------------------------------
+[ERROR]: Invalid user
+[TIMESTAMP]: 30.6.2020 20:50:49
+[USER]: Unknown user
+[MESSAGE]: Invalid credentials
+----------------------------------
+[ERROR]: Invalid user
+[TIMESTAMP]: 30.6.2020 20:52:33
+[USER]: Unknown user
+[MESSAGE]: Invalid credentials
+----------------------------------
+[ERROR]: Invalid user
+[TIMESTAMP]: 30.6.2020 20:54:00
+[USER]: Unknown user
+[MESSAGE]: Invalid credentials
+----------------------------------
+[ERROR]: Invalid user
+[TIMESTAMP]: 30.6.2020 20:54:36
+[USER]: Unknown user
+[MESSAGE]: Invalid credentials
+----------------------------------
+[ERROR]: Invalid user
+[TIMESTAMP]: 30.6.2020 20:55:25
+[USER]: Unknown user
+[MESSAGE]: Invalid credentials
+----------------------------------

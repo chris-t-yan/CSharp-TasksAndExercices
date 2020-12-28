@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "kn5UeqcIFaHr4hGe3CIiZ0MEvenZwcnO6s3Op1uSiwcCi8tPeAPAr2Gb+4AHMdzrSPOM/Anm6VEFuPf8hZVamQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hrist\\Desktop\\SEDC 2019-2020\\05_C# Advanced\\AdvancedCSharpTasksAndExercises\\AdvancedCSharp\\12Class_exercise01_SerializationDeserialization\\12Class_exercise01_SerializationDeserialization.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hrist\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

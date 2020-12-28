@@ -1,0 +1,12 @@
+C:\Users\hrist\Desktop\SEDC 2019-2020\05_C# Advanced\Vezbi i proekti\AdvancedCSharpTasksAndExercises\AdvancedCSharp\05Class_excercise01_Generics\bin\Debug\netcoreapp3.1\05Class_excercise01_Generics.exe
+C:\Users\hrist\Desktop\SEDC 2019-2020\05_C# Advanced\Vezbi i proekti\AdvancedCSharpTasksAndExercises\AdvancedCSharp\05Class_excercise01_Generics\bin\Debug\netcoreapp3.1\05Class_excercise01_Generics.deps.json
+C:\Users\hrist\Desktop\SEDC 2019-2020\05_C# Advanced\Vezbi i proekti\AdvancedCSharpTasksAndExercises\AdvancedCSharp\05Class_excercise01_Generics\bin\Debug\netcoreapp3.1\05Class_excercise01_Generics.runtimeconfig.json
+C:\Users\hrist\Desktop\SEDC 2019-2020\05_C# Advanced\Vezbi i proekti\AdvancedCSharpTasksAndExercises\AdvancedCSharp\05Class_excercise01_Generics\bin\Debug\netcoreapp3.1\05Class_excercise01_Generics.runtimeconfig.dev.json
+C:\Users\hrist\Desktop\SEDC 2019-2020\05_C# Advanced\Vezbi i proekti\AdvancedCSharpTasksAndExercises\AdvancedCSharp\05Class_excercise01_Generics\bin\Debug\netcoreapp3.1\05Class_excercise01_Generics.dll
+C:\Users\hrist\Desktop\SEDC 2019-2020\05_C# Advanced\Vezbi i proekti\AdvancedCSharpTasksAndExercises\AdvancedCSharp\05Class_excercise01_Generics\bin\Debug\netcoreapp3.1\05Class_excercise01_Generics.pdb
+C:\Users\hrist\Desktop\SEDC 2019-2020\05_C# Advanced\Vezbi i proekti\AdvancedCSharpTasksAndExercises\AdvancedCSharp\05Class_excercise01_Generics\obj\Debug\netcoreapp3.1\05Class_excercise01_Generics.csproj.CoreCompileInputs.cache
+C:\Users\hrist\Desktop\SEDC 2019-2020\05_C# Advanced\Vezbi i proekti\AdvancedCSharpTasksAndExercises\AdvancedCSharp\05Class_excercise01_Generics\obj\Debug\netcoreapp3.1\05Class_excercise01_Generics.AssemblyInfoInputs.cache
+C:\Users\hrist\Desktop\SEDC 2019-2020\05_C# Advanced\Vezbi i proekti\AdvancedCSharpTasksAndExercises\AdvancedCSharp\05Class_excercise01_Generics\obj\Debug\netcoreapp3.1\05Class_excercise01_Generics.AssemblyInfo.cs
+C:\Users\hrist\Desktop\SEDC 2019-2020\05_C# Advanced\Vezbi i proekti\AdvancedCSharpTasksAndExercises\AdvancedCSharp\05Class_excercise01_Generics\obj\Debug\netcoreapp3.1\05Class_excercise01_Generics.dll
+C:\Users\hrist\Desktop\SEDC 2019-2020\05_C# Advanced\Vezbi i proekti\AdvancedCSharpTasksAndExercises\AdvancedCSharp\05Class_excercise01_Generics\obj\Debug\netcoreapp3.1\05Class_excercise01_Generics.pdb
+C:\Users\hrist\Desktop\SEDC 2019-2020\05_C# Advanced\Vezbi i proekti\AdvancedCSharpTasksAndExercises\AdvancedCSharp\05Class_excercise01_Generics\obj\Debug\netcoreapp3.1\05Class_excercise01_Generics.genruntimeconfig.cache
